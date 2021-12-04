@@ -6,6 +6,7 @@ Pretend: A project that am working on is coding a password generator when the pr
 
 ## New Heading for Pull Request
 *from Cameron Joerger*
+
 MIT License
 
 Copyright (c) 2021 Anthony Leon Middleton
