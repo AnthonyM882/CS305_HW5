@@ -4,7 +4,7 @@ Pretend: A project that am working on is coding a password generator when the pr
 ## Contributers to the project -
 *Cameron Joerger*
 
-## New HEading for Pull Request
+## New Heading for Pull Request
 *from Cameron Joerger*
 MIT License
 
