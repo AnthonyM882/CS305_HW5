@@ -5,8 +5,15 @@ Pretend: A project that am working on is coding a password generator when the pr
 *Cameron Joerger*
 * Pengfei (This is the addition)
 
+## Tech (This is the addition)
+* Python
+* HTTP
+* CSS
+* PHP
+
 ## New Heading for Pull Request
 *from Cameron Joerger*
+
 
 MIT License
 
