@@ -3,7 +3,7 @@ Pretend: A project that am working on is coding a password generator when the pr
 
 ## Contributers to the project -
 *Cameron Joerger*
-* Pengfei
+* Pengfei (This is the addition)
 
 ## Tech (This is the addition)
 * Python
